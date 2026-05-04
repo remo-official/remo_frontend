@@ -23,7 +23,8 @@
     "noImplicitOverride": true,
 
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "seed-design/*": ["./seed-design/*"]
     },
 
     // Some stricter flags (disabled by default)
